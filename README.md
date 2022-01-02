@@ -2,4 +2,4 @@
 - POST
 - GET
 - PUT ve
-- DELETE işlemleri yapılmaktatır. Bunu POSTMAN üzerinden görebilmekteyiz..
+- DELETE işlemleri yapılmaktadır. Bunu POSTMAN üzerinden görebilmekteyiz..
